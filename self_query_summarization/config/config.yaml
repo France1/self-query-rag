@@ -1,0 +1,3 @@
+data:
+  dir: "data"
+  file: "wiki_movie_plots_deduped.csv"
