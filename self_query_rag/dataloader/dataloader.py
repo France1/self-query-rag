@@ -2,7 +2,7 @@ from typing import Any, Dict
 
 import pandas as pd
 import numpy as np
-from self_query_summarization.utils.utils import build_path, load_config_yaml
+from self_query_rag.utils.utils import build_path, load_config_yaml
 
 class DataLoader:
     # from https://www.kaggle.com/code/tatianasnwrt/wikipedia-movie-plots-eda?scriptVersionId=31690832&cellId=15

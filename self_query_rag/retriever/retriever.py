@@ -4,7 +4,7 @@ import random
 import pandas as pd
 import chromadb
 
-from self_query_summarization.retriever.embeddings import GPTEmbeddings, SentenceTransformerEmbeddings
+from self_query_rag.retriever.embeddings import GPTEmbeddings, SentenceTransformerEmbeddings
 
 
 class ChromaRetriever:

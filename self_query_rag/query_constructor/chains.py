@@ -1,5 +1,5 @@
 from langchain_openai import OpenAI
-from self_query_summarization.query_constructor.prompt import *
+from self_query_rag.query_constructor.prompt import *
 
 from langchain.output_parsers import PydanticOutputParser
 from langchain_core.pydantic_v1 import BaseModel, Field

@@ -1,7 +1,7 @@
 from typing import Any, Dict
 import yaml
 from pathlib import Path
-from self_query_summarization.config.config import ROOT_DIR
+from self_query_rag.config.config import ROOT_DIR
 
 
 def build_path(dir_path: str, file_path: str) -> Path:
